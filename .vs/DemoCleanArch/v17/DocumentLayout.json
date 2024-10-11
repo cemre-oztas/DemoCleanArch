@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\Github\\DemoCleanArch\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F790154-B541-4AE6-B92B-A977E63F4EED}|CleanArch.Persistence\\CleanArch.Persistence.csproj|d:\\github\\democleanarch\\cleanarch.persistence\\repositories\\basketitem\\basketitemwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F790154-B541-4AE6-B92B-A977E63F4EED}|CleanArch.Persistence\\CleanArch.Persistence.csproj|solutionrelative:cleanarch.persistence\\repositories\\basketitem\\basketitemwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5F790154-B541-4AE6-B92B-A977E63F4EED}|CleanArch.Persistence\\CleanArch.Persistence.csproj|d:\\github\\democleanarch\\cleanarch.persistence\\repositories\\basketitem\\basketreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F790154-B541-4AE6-B92B-A977E63F4EED}|CleanArch.Persistence\\CleanArch.Persistence.csproj|solutionrelative:cleanarch.persistence\\repositories\\basketitem\\basketreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F790154-B541-4AE6-B92B-A977E63F4EED}|CleanArch.Persistence\\CleanArch.Persistence.csproj|d:\\github\\democleanarch\\cleanarch.persistence\\contexts\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F790154-B541-4AE6-B92B-A977E63F4EED}|CleanArch.Persistence\\CleanArch.Persistence.csproj|solutionrelative:cleanarch.persistence\\contexts\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F790154-B541-4AE6-B92B-A977E63F4EED}|CleanArch.Persistence\\CleanArch.Persistence.csproj|d:\\github\\democleanarch\\cleanarch.persistence\\repositories\\basketitem\\basketitemwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F790154-B541-4AE6-B92B-A977E63F4EED}|CleanArch.Persistence\\CleanArch.Persistence.csproj|solutionrelative:cleanarch.persistence\\repositories\\basketitem\\basketitemwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72FA11A6-F1B1-4B48-AD87-2BEC1DB2F5BF}|CleanArch.Domain\\CleanArch.Domain.csproj|d:\\github\\democleanarch\\cleanarch.domain\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{72FA11A6-F1B1-4B48-AD87-2BEC1DB2F5BF}|CleanArch.Domain\\CleanArch.Domain.csproj|solutionrelative:cleanarch.domain\\entities\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F790154-B541-4AE6-B92B-A977E63F4EED}|CleanArch.Persistence\\CleanArch.Persistence.csproj|d:\\github\\democleanarch\\cleanarch.persistence\\repositories\\basketitem\\basketitemreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F790154-B541-4AE6-B92B-A977E63F4EED}|CleanArch.Persistence\\CleanArch.Persistence.csproj|solutionrelative:cleanarch.persistence\\repositories\\basketitem\\basketitemreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5F790154-B541-4AE6-B92B-A977E63F4EED}|CleanArch.Persistence\\CleanArch.Persistence.csproj|d:\\github\\democleanarch\\cleanarch.persistence\\repositories\\basket\\basketwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F790154-B541-4AE6-B92B-A977E63F4EED}|CleanArch.Persistence\\CleanArch.Persistence.csproj|solutionrelative:cleanarch.persistence\\repositories\\basket\\basketwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -65,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5F790154-B541-4AE6-B92B-A977E63F4EED}|CleanArch.Persistence\\CleanArch.Persistence.csproj|d:\\github\\democleanarch\\cleanarch.persistence\\cleanarch.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5F790154-B541-4AE6-B92B-A977E63F4EED}|CleanArch.Persistence\\CleanArch.Persistence.csproj|solutionrelative:cleanarch.persistence\\cleanarch.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F790154-B541-4AE6-B92B-A977E63F4EED}|CleanArch.Persistence\\CleanArch.Persistence.csproj|d:\\github\\democleanarch\\cleanarch.persistence\\contexts\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F790154-B541-4AE6-B92B-A977E63F4EED}|CleanArch.Persistence\\CleanArch.Persistence.csproj|solutionrelative:cleanarch.persistence\\contexts\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72FA11A6-F1B1-4B48-AD87-2BEC1DB2F5BF}|CleanArch.Domain\\CleanArch.Domain.csproj|d:\\github\\democleanarch\\cleanarch.domain\\entities\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -313,6 +309,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{711029B7-6BEE-4A82-B95D-2652B72CBF10}|CleanArch.Application\\CleanArch.Application.csproj|d:\\github\\democleanarch\\cleanarch.application\\dtos\\order\\completedorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{711029B7-6BEE-4A82-B95D-2652B72CBF10}|CleanArch.Application\\CleanArch.Application.csproj|solutionrelative:cleanarch.application\\dtos\\order\\completedorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\DemoCleanArch\\CleanArch.Persistence\\Repositories\\BasketItem\\BasketItemReadRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanArch.Persistence\\Repositories\\BasketItem\\BasketItemReadRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -322,24 +322,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CleanArch.Domain",
-              "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj",
-              "RelativeDocumentMoniker": "CleanArch.Domain\\CleanArch.Domain.csproj",
-              "ToolTip": "D:\\Github\\DemoCleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj",
-              "RelativeToolTip": "CleanArch.Domain\\CleanArch.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-11T12:17:55.56Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Domain\\Entities\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "CleanArch.Domain\\Entities\\Common\\BaseEntity.cs",
@@ -347,12 +342,11 @@
               "RelativeToolTip": "CleanArch.Domain\\Entities\\Common\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:49:54.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:49:54.796Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "BasketItemWriteRepository.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Persistence\\Repositories\\BasketItem\\BasketItemWriteRepository.cs",
               "RelativeDocumentMoniker": "CleanArch.Persistence\\Repositories\\BasketItem\\BasketItemWriteRepository.cs",
@@ -365,20 +359,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BasketReadRepository.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Persistence\\Repositories\\BasketItem\\BasketReadRepository.cs",
               "RelativeDocumentMoniker": "CleanArch.Persistence\\Repositories\\BasketItem\\BasketReadRepository.cs",
               "ToolTip": "D:\\Github\\DemoCleanArch\\CleanArch.Persistence\\Repositories\\BasketItem\\BasketReadRepository.cs",
               "RelativeToolTip": "CleanArch.Persistence\\Repositories\\BasketItem\\BasketReadRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T12:35:24.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Basket.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Domain\\Entities\\Basket.cs",
               "RelativeDocumentMoniker": "CleanArch.Domain\\Entities\\Basket.cs",
@@ -386,12 +380,11 @@
               "RelativeToolTip": "CleanArch.Domain\\Entities\\Basket.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:47:36.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:47:36.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Order.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Domain\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "CleanArch.Domain\\Entities\\Order.cs",
@@ -399,12 +392,11 @@
               "RelativeToolTip": "CleanArch.Domain\\Entities\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:48:16.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:48:16.295Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Menu.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Domain\\Entities\\Menu.cs",
               "RelativeDocumentMoniker": "CleanArch.Domain\\Entities\\Menu.cs",
@@ -412,12 +404,11 @@
               "RelativeToolTip": "CleanArch.Domain\\Entities\\Menu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:48:04.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:48:04.317Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CompletedOrder.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Domain\\Entities\\CompletedOrder.cs",
               "RelativeDocumentMoniker": "CleanArch.Domain\\Entities\\CompletedOrder.cs",
@@ -425,12 +416,11 @@
               "RelativeToolTip": "CleanArch.Domain\\Entities\\CompletedOrder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:47:56.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:47:56.063Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "BasketItem.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Domain\\Entities\\BasketItem.cs",
               "RelativeDocumentMoniker": "CleanArch.Domain\\Entities\\BasketItem.cs",
@@ -438,90 +428,11 @@
               "RelativeToolTip": "CleanArch.Domain\\Entities\\BasketItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:47:45.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:47:45.052Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BasketItemReadRepository.cs",
-              "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Persistence\\Repositories\\BasketItem\\BasketItemReadRepository.cs",
-              "RelativeDocumentMoniker": "CleanArch.Persistence\\Repositories\\BasketItem\\BasketItemReadRepository.cs",
-              "ToolTip": "D:\\Github\\DemoCleanArch\\CleanArch.Persistence\\Repositories\\BasketItem\\BasketItemReadRepository.cs",
-              "RelativeToolTip": "CleanArch.Persistence\\Repositories\\BasketItem\\BasketItemReadRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T12:01:30.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CleanArch.Application",
-              "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\CleanArch.Application.csproj",
-              "RelativeDocumentMoniker": "CleanArch.Application\\CleanArch.Application.csproj",
-              "ToolTip": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\CleanArch.Application.csproj",
-              "RelativeToolTip": "CleanArch.Application\\CleanArch.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-11T11:10:59.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BasketWriteRepository.cs",
-              "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Persistence\\Repositories\\Basket\\BasketWriteRepository.cs",
-              "RelativeDocumentMoniker": "CleanArch.Persistence\\Repositories\\Basket\\BasketWriteRepository.cs",
-              "ToolTip": "D:\\Github\\DemoCleanArch\\CleanArch.Persistence\\Repositories\\Basket\\BasketWriteRepository.cs",
-              "RelativeToolTip": "CleanArch.Persistence\\Repositories\\Basket\\BasketWriteRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T11:00:34.161Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IBasketWriteRepository.cs",
-              "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Repositories\\Basket\\IBasketWriteRepository.cs",
-              "RelativeDocumentMoniker": "CleanArch.Application\\Repositories\\Basket\\IBasketWriteRepository.cs",
-              "ToolTip": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Repositories\\Basket\\IBasketWriteRepository.cs",
-              "RelativeToolTip": "CleanArch.Application\\Repositories\\Basket\\IBasketWriteRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:37:20.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BasketReadRepository.cs",
-              "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Persistence\\Repositories\\Basket\\BasketReadRepository.cs",
-              "RelativeDocumentMoniker": "CleanArch.Persistence\\Repositories\\Basket\\BasketReadRepository.cs",
-              "ToolTip": "D:\\Github\\DemoCleanArch\\CleanArch.Persistence\\Repositories\\Basket\\BasketReadRepository.cs",
-              "RelativeToolTip": "CleanArch.Persistence\\Repositories\\Basket\\BasketReadRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T11:00:11.608Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IBasketReadRepository.cs",
-              "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Repositories\\Basket\\IBasketReadRepository.cs",
-              "RelativeDocumentMoniker": "CleanArch.Application\\Repositories\\Basket\\IBasketReadRepository.cs",
-              "ToolTip": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Repositories\\Basket\\IBasketReadRepository.cs",
-              "RelativeToolTip": "CleanArch.Application\\Repositories\\Basket\\IBasketReadRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:37:07.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 1,
               "Title": "APIDbContext.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Persistence\\Contexts\\APIDbContext.cs",
               "RelativeDocumentMoniker": "CleanArch.Persistence\\Contexts\\APIDbContext.cs",
@@ -534,28 +445,103 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CleanArch.Domain.csproj",
+              "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj",
+              "RelativeDocumentMoniker": "CleanArch.Domain\\CleanArch.Domain.csproj",
+              "ToolTip": "D:\\Github\\DemoCleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj",
+              "RelativeToolTip": "CleanArch.Domain\\CleanArch.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-11T12:17:55.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "BasketItemReadRepository.cs",
+              "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Persistence\\Repositories\\BasketItem\\BasketItemReadRepository.cs",
+              "RelativeDocumentMoniker": "CleanArch.Persistence\\Repositories\\BasketItem\\BasketItemReadRepository.cs",
+              "ToolTip": "D:\\Github\\DemoCleanArch\\CleanArch.Persistence\\Repositories\\BasketItem\\BasketItemReadRepository.cs",
+              "RelativeToolTip": "CleanArch.Persistence\\Repositories\\BasketItem\\BasketItemReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:01:30.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CleanArch.Application.csproj",
+              "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\CleanArch.Application.csproj",
+              "RelativeDocumentMoniker": "CleanArch.Application\\CleanArch.Application.csproj",
+              "ToolTip": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\CleanArch.Application.csproj",
+              "RelativeToolTip": "CleanArch.Application\\CleanArch.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-11T11:10:59.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BasketWriteRepository.cs",
+              "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Persistence\\Repositories\\Basket\\BasketWriteRepository.cs",
+              "RelativeDocumentMoniker": "CleanArch.Persistence\\Repositories\\Basket\\BasketWriteRepository.cs",
+              "ToolTip": "D:\\Github\\DemoCleanArch\\CleanArch.Persistence\\Repositories\\Basket\\BasketWriteRepository.cs",
+              "RelativeToolTip": "CleanArch.Persistence\\Repositories\\Basket\\BasketWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:00:34.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBasketWriteRepository.cs",
+              "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Repositories\\Basket\\IBasketWriteRepository.cs",
+              "RelativeDocumentMoniker": "CleanArch.Application\\Repositories\\Basket\\IBasketWriteRepository.cs",
+              "ToolTip": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Repositories\\Basket\\IBasketWriteRepository.cs",
+              "RelativeToolTip": "CleanArch.Application\\Repositories\\Basket\\IBasketWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:37:20.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BasketReadRepository.cs",
+              "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Persistence\\Repositories\\Basket\\BasketReadRepository.cs",
+              "RelativeDocumentMoniker": "CleanArch.Persistence\\Repositories\\Basket\\BasketReadRepository.cs",
+              "ToolTip": "D:\\Github\\DemoCleanArch\\CleanArch.Persistence\\Repositories\\Basket\\BasketReadRepository.cs",
+              "RelativeToolTip": "CleanArch.Persistence\\Repositories\\Basket\\BasketReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:00:11.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBasketReadRepository.cs",
+              "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Repositories\\Basket\\IBasketReadRepository.cs",
+              "RelativeDocumentMoniker": "CleanArch.Application\\Repositories\\Basket\\IBasketReadRepository.cs",
+              "ToolTip": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Repositories\\Basket\\IBasketReadRepository.cs",
+              "RelativeToolTip": "CleanArch.Application\\Repositories\\Basket\\IBasketReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:37:07.677Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "CleanArch.Persistence",
+              "Title": "CleanArch.Persistence.csproj",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Persistence\\CleanArch.Persistence.csproj",
               "RelativeDocumentMoniker": "CleanArch.Persistence\\CleanArch.Persistence.csproj",
               "ToolTip": "D:\\Github\\DemoCleanArch\\CleanArch.Persistence\\CleanArch.Persistence.csproj",
               "RelativeToolTip": "CleanArch.Persistence\\CleanArch.Persistence.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-11T10:53:12.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2024-10-11T10:53:12.908Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "AppUser.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Domain\\Entities\\Identity\\AppUser.cs",
               "RelativeDocumentMoniker": "CleanArch.Domain\\Entities\\Identity\\AppUser.cs",
@@ -563,12 +549,11 @@
               "RelativeToolTip": "CleanArch.Domain\\Entities\\Identity\\AppUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:50:50.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:50:50.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "AppRole.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Domain\\Entities\\Identity\\AppRole.cs",
               "RelativeDocumentMoniker": "CleanArch.Domain\\Entities\\Identity\\AppRole.cs",
@@ -576,12 +561,11 @@
               "RelativeToolTip": "CleanArch.Domain\\Entities\\Identity\\AppRole.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:50:42.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:50:42.824Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Domain\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "CleanArch.Domain\\Entities\\Product.cs",
@@ -589,12 +573,11 @@
               "RelativeToolTip": "CleanArch.Domain\\Entities\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:48:24.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:48:24.785Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "IProductWriteRepository.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Repositories\\Product\\IProductWriteRepository.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Repositories\\Product\\IProductWriteRepository.cs",
@@ -602,12 +585,11 @@
               "RelativeToolTip": "CleanArch.Application\\Repositories\\Product\\IProductWriteRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:40:36.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:40:36.036Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "ServiceRegistration.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\ServiceRegistration.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\ServiceRegistration.cs",
@@ -615,12 +597,11 @@
               "RelativeToolTip": "CleanArch.Application\\ServiceRegistration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T09:51:31.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T09:51:31.41Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "IProductReadRepository.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Repositories\\Product\\IProductReadRepository.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Repositories\\Product\\IProductReadRepository.cs",
@@ -628,12 +609,11 @@
               "RelativeToolTip": "CleanArch.Application\\Repositories\\Product\\IProductReadRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:40:23.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:40:23.071Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "IOrderWriteRepository.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Repositories\\Order\\IOrderWriteRepository.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Repositories\\Order\\IOrderWriteRepository.cs",
@@ -641,12 +621,11 @@
               "RelativeToolTip": "CleanArch.Application\\Repositories\\Order\\IOrderWriteRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:40:05.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:40:05.614Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "IOrderReadRepository.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Repositories\\Order\\IOrderReadRepository.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Repositories\\Order\\IOrderReadRepository.cs",
@@ -654,12 +633,11 @@
               "RelativeToolTip": "CleanArch.Application\\Repositories\\Order\\IOrderReadRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:39:49.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:39:49.114Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "IMenuReadRepository.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Repositories\\Menu\\IMenuReadRepository.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Repositories\\Menu\\IMenuReadRepository.cs",
@@ -667,12 +645,11 @@
               "RelativeToolTip": "CleanArch.Application\\Repositories\\Menu\\IMenuReadRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:38:54.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:38:54.999Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "IMenuWriteRepository.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Repositories\\Menu\\IMenuWriteRepository.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Repositories\\Menu\\IMenuWriteRepository.cs",
@@ -680,12 +657,11 @@
               "RelativeToolTip": "CleanArch.Application\\Repositories\\Menu\\IMenuWriteRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:39:09.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:39:09.992Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "ICompletedOrderWriteRepository.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Repositories\\CompletedOrder\\ICompletedOrderWriteRepository.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Repositories\\CompletedOrder\\ICompletedOrderWriteRepository.cs",
@@ -693,12 +669,11 @@
               "RelativeToolTip": "CleanArch.Application\\Repositories\\CompletedOrder\\ICompletedOrderWriteRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:38:35.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:38:35.673Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 27,
               "Title": "ICompletedOrderReadRepository.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Repositories\\CompletedOrder\\ICompletedOrderReadRepository.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Repositories\\CompletedOrder\\ICompletedOrderReadRepository.cs",
@@ -706,12 +681,11 @@
               "RelativeToolTip": "CleanArch.Application\\Repositories\\CompletedOrder\\ICompletedOrderReadRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:38:14.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:38:14.347Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 28,
               "Title": "IBasketWriteRepository.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Repositories\\BasketItem\\IBasketWriteRepository.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Repositories\\BasketItem\\IBasketWriteRepository.cs",
@@ -719,12 +693,11 @@
               "RelativeToolTip": "CleanArch.Application\\Repositories\\BasketItem\\IBasketWriteRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:37:56.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:37:56.293Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 29,
               "Title": "IBasketReadRepository.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Repositories\\BasketItem\\IBasketReadRepository.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Repositories\\BasketItem\\IBasketReadRepository.cs",
@@ -732,12 +705,11 @@
               "RelativeToolTip": "CleanArch.Application\\Repositories\\BasketItem\\IBasketReadRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:37:43.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:37:43.596Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 31,
               "Title": "GetByIdProductQueryResponse.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Queries\\Product\\GetByIdProduct\\GetByIdProductQueryResponse.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Queries\\Product\\GetByIdProduct\\GetByIdProductQueryResponse.cs",
@@ -745,12 +717,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Queries\\Product\\GetByIdProduct\\GetByIdProductQueryResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:25:42.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:25:42.301Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 30,
               "Title": "GetByIdProductQueryHandler.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Queries\\Product\\GetByIdProduct\\GetByIdProductQueryHandler.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Queries\\Product\\GetByIdProduct\\GetByIdProductQueryHandler.cs",
@@ -758,12 +729,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Queries\\Product\\GetByIdProduct\\GetByIdProductQueryHandler.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwBgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:25:20.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:25:20.431Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 32,
               "Title": "GetByIdProductQueryRequest.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Queries\\Product\\GetByIdProduct\\GetByIdProductQueryRequest.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Queries\\Product\\GetByIdProduct\\GetByIdProductQueryRequest.cs",
@@ -771,12 +741,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Queries\\Product\\GetByIdProduct\\GetByIdProductQueryRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:25:33.615Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:25:33.615Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 34,
               "Title": "GetAllProductQueryRequest.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Queries\\Product\\GetAllProduct\\GetAllProductQueryRequest.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Queries\\Product\\GetAllProduct\\GetAllProductQueryRequest.cs",
@@ -784,12 +753,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Queries\\Product\\GetAllProduct\\GetAllProductQueryRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:24:19.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:24:19.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 33,
               "Title": "GetAllProductQueryResponse.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Queries\\Product\\GetAllProduct\\GetAllProductQueryResponse.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Queries\\Product\\GetAllProduct\\GetAllProductQueryResponse.cs",
@@ -797,12 +765,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Queries\\Product\\GetAllProduct\\GetAllProductQueryResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:24:28.175Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:24:28.175Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 35,
               "Title": "GetAllProductQueryHandler.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Queries\\Product\\GetAllProduct\\GetAllProductQueryHandler.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Queries\\Product\\GetAllProduct\\GetAllProductQueryHandler.cs",
@@ -810,12 +777,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Queries\\Product\\GetAllProduct\\GetAllProductQueryHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:24:09.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:24:09.737Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 37,
               "Title": "GetOrderByIdQueryRequest.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Queries\\Order\\GetOrderById\\GetOrderByIdQueryRequest.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Queries\\Order\\GetOrderById\\GetOrderByIdQueryRequest.cs",
@@ -823,12 +789,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Queries\\Order\\GetOrderById\\GetOrderByIdQueryRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:21:32.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:21:32.402Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 36,
               "Title": "GetOrderByIdQueryResponse.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Queries\\Order\\GetOrderById\\GetOrderByIdQueryResponse.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Queries\\Order\\GetOrderById\\GetOrderByIdQueryResponse.cs",
@@ -836,12 +801,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Queries\\Order\\GetOrderById\\GetOrderByIdQueryResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:21:45.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:21:45.546Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 38,
               "Title": "GetOrderByIdQueryHandler.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Queries\\Order\\GetOrderById\\GetOrderByIdQueryHandler.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Queries\\Order\\GetOrderById\\GetOrderByIdQueryHandler.cs",
@@ -849,12 +813,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Queries\\Order\\GetOrderById\\GetOrderByIdQueryHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:20:03.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:20:03.537Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 40,
               "Title": "GetAllOrdersQueryRequest.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Queries\\Order\\GetAllOrders\\GetAllOrdersQueryRequest.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Queries\\Order\\GetAllOrders\\GetAllOrdersQueryRequest.cs",
@@ -862,12 +825,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Queries\\Order\\GetAllOrders\\GetAllOrdersQueryRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:18:48.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:18:48.144Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 39,
               "Title": "GetAllOrdersQueryResponse.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Queries\\Order\\GetAllOrders\\GetAllOrdersQueryResponse.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Queries\\Order\\GetAllOrders\\GetAllOrdersQueryResponse.cs",
@@ -875,12 +837,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Queries\\Order\\GetAllOrders\\GetAllOrdersQueryResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:18:57.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:18:57.42Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 41,
               "Title": "GetAllOrdersQueryHandler.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Queries\\Order\\GetAllOrders\\GetAllOrdersQueryHandler.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Queries\\Order\\GetAllOrders\\GetAllOrdersQueryHandler.cs",
@@ -888,12 +849,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Queries\\Order\\GetAllOrders\\GetAllOrdersQueryHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:18:40.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:18:40.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 43,
               "Title": "GetBasketItemsQueryRequest.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Queries\\Basket\\GetBasketItems\\GetBasketItemsQueryRequest.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Queries\\Basket\\GetBasketItems\\GetBasketItemsQueryRequest.cs",
@@ -901,12 +861,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Queries\\Basket\\GetBasketItems\\GetBasketItemsQueryRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:15:57.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:15:57.248Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 42,
               "Title": "GetBasketItemsQueryResponse.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Queries\\Basket\\GetBasketItems\\GetBasketItemsQueryResponse.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Queries\\Basket\\GetBasketItems\\GetBasketItemsQueryResponse.cs",
@@ -914,12 +873,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Queries\\Basket\\GetBasketItems\\GetBasketItemsQueryResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:16:05.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:16:05.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 44,
               "Title": "GetBasketItemsQueryHandler.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Queries\\Basket\\GetBasketItems\\GetBasketItemsQueryHandler.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Queries\\Basket\\GetBasketItems\\GetBasketItemsQueryHandler.cs",
@@ -927,12 +885,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Queries\\Basket\\GetBasketItems\\GetBasketItemsQueryHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:15:49.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:15:49.68Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 46,
               "Title": "UpdateProductCommandRequest.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Commands\\Product\\UpdateProduct\\UpdateProductCommandRequest.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Commands\\Product\\UpdateProduct\\UpdateProductCommandRequest.cs",
@@ -940,12 +897,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Commands\\Product\\UpdateProduct\\UpdateProductCommandRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:13:34.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:13:34.746Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 45,
               "Title": "UpdateProductCommandHandler.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Commands\\Product\\UpdateProduct\\UpdateProductCommandHandler.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Commands\\Product\\UpdateProduct\\UpdateProductCommandHandler.cs",
@@ -953,12 +909,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Commands\\Product\\UpdateProduct\\UpdateProductCommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:13:08.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:13:08.918Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 47,
               "Title": "UpdateProductCommandResponse.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Commands\\Product\\UpdateProduct\\UpdateProductCommandResponse.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Commands\\Product\\UpdateProduct\\UpdateProductCommandResponse.cs",
@@ -966,12 +921,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Commands\\Product\\UpdateProduct\\UpdateProductCommandResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:13:44.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:13:44.061Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 49,
               "Title": "RemoveProductCommandRequest.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Commands\\Product\\RemoveProduct\\RemoveProductCommandRequest.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Commands\\Product\\RemoveProduct\\RemoveProductCommandRequest.cs",
@@ -979,12 +933,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Commands\\Product\\RemoveProduct\\RemoveProductCommandRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:12:01.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:12:01.655Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 48,
               "Title": "RemoveProductCommandResponse.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Commands\\Product\\RemoveProduct\\RemoveProductCommandResponse.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Commands\\Product\\RemoveProduct\\RemoveProductCommandResponse.cs",
@@ -992,12 +945,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Commands\\Product\\RemoveProduct\\RemoveProductCommandResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:12:14.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:12:14.496Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 50,
               "Title": "RemoveProductCommandHandler.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Commands\\Product\\RemoveProduct\\RemoveProductCommandHandler.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Commands\\Product\\RemoveProduct\\RemoveProductCommandHandler.cs",
@@ -1005,12 +957,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Commands\\Product\\RemoveProduct\\RemoveProductCommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:11:51.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:11:51.988Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 52,
               "Title": "CreateProductCommandRequest.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Commands\\Product\\CreateProduct\\CreateProductCommandRequest.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Commands\\Product\\CreateProduct\\CreateProductCommandRequest.cs",
@@ -1018,12 +969,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Commands\\Product\\CreateProduct\\CreateProductCommandRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:10:20.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:10:20.196Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 51,
               "Title": "CreateProductCommandHandler.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Commands\\Product\\CreateProduct\\CreateProductCommandHandler.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Commands\\Product\\CreateProduct\\CreateProductCommandHandler.cs",
@@ -1031,12 +981,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Commands\\Product\\CreateProduct\\CreateProductCommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:10:10.979Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:10:10.979Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 53,
               "Title": "CreateProductCommandResponse.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Commands\\Product\\CreateProduct\\CreateProductCommandResponse.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Commands\\Product\\CreateProduct\\CreateProductCommandResponse.cs",
@@ -1044,12 +993,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Commands\\Product\\CreateProduct\\CreateProductCommandResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:10:27.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:10:27.344Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 55,
               "Title": "CreateOrderCommandHandler.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Commands\\Order\\CreateOrder\\CreateOrderCommandHandler.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Commands\\Order\\CreateOrder\\CreateOrderCommandHandler.cs",
@@ -1057,12 +1005,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Commands\\Order\\CreateOrder\\CreateOrderCommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:08:27.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:08:27.732Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 54,
               "Title": "CreateOrderCommandResponse.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Commands\\Order\\CreateOrder\\CreateOrderCommandResponse.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Commands\\Order\\CreateOrder\\CreateOrderCommandResponse.cs",
@@ -1070,12 +1017,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Commands\\Order\\CreateOrder\\CreateOrderCommandResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:08:45.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:08:45.928Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 56,
               "Title": "CreateOrderCommandRequest.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Commands\\Order\\CreateOrder\\CreateOrderCommandRequest.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Commands\\Order\\CreateOrder\\CreateOrderCommandRequest.cs",
@@ -1083,12 +1029,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Commands\\Order\\CreateOrder\\CreateOrderCommandRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:08:36.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:08:36.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 58,
               "Title": "CompleteOrderCommandRequest.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Commands\\Order\\CompleteOrder\\CompleteOrderCommandRequest.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Commands\\Order\\CompleteOrder\\CompleteOrderCommandRequest.cs",
@@ -1096,12 +1041,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Commands\\Order\\CompleteOrder\\CompleteOrderCommandRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:07:35.412Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:07:35.412Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 57,
               "Title": "CompleteOrderCommandHandler.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Commands\\Order\\CompleteOrder\\CompleteOrderCommandHandler.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Commands\\Order\\CompleteOrder\\CompleteOrderCommandHandler.cs",
@@ -1109,12 +1053,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Commands\\Order\\CompleteOrder\\CompleteOrderCommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:06:44.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:06:44.125Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 59,
               "Title": "CompleteOrderCommandResponse.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Commands\\Order\\CompleteOrder\\CompleteOrderCommandResponse.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Commands\\Order\\CompleteOrder\\CompleteOrderCommandResponse.cs",
@@ -1122,12 +1065,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Commands\\Order\\CompleteOrder\\CompleteOrderCommandResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:07:44.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:07:44.283Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 61,
               "Title": "UpdateQuantityCommandRequest.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Commands\\Basket\\UpdateQuantity\\UpdateQuantityCommandRequest.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Commands\\Basket\\UpdateQuantity\\UpdateQuantityCommandRequest.cs",
@@ -1135,12 +1077,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Commands\\Basket\\UpdateQuantity\\UpdateQuantityCommandRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:05:02.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:05:02.47Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 60,
               "Title": "UpdateQuantityCommandResponse.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Commands\\Basket\\UpdateQuantity\\UpdateQuantityCommandResponse.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Commands\\Basket\\UpdateQuantity\\UpdateQuantityCommandResponse.cs",
@@ -1148,12 +1089,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Commands\\Basket\\UpdateQuantity\\UpdateQuantityCommandResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:05:13.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:05:13.238Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 62,
               "Title": "UpdateQuantityCommandHandler.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Commands\\Basket\\UpdateQuantity\\UpdateQuantityCommandHandler.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Commands\\Basket\\UpdateQuantity\\UpdateQuantityCommandHandler.cs",
@@ -1161,12 +1101,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Commands\\Basket\\UpdateQuantity\\UpdateQuantityCommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:04:51.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:04:51.823Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 64,
               "Title": "RemoveBasketItemCommandHandler.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Commands\\Basket\\RemoveBasketItem\\RemoveBasketItemCommandHandler.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Commands\\Basket\\RemoveBasketItem\\RemoveBasketItemCommandHandler.cs",
@@ -1174,12 +1113,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Commands\\Basket\\RemoveBasketItem\\RemoveBasketItemCommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:03:23.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:03:23.129Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 63,
               "Title": "RemoveBasketItemCommandRequest.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Commands\\Basket\\RemoveBasketItem\\RemoveBasketItemCommandRequest.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Commands\\Basket\\RemoveBasketItem\\RemoveBasketItemCommandRequest.cs",
@@ -1187,12 +1125,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Commands\\Basket\\RemoveBasketItem\\RemoveBasketItemCommandRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:03:32.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:03:32.354Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 65,
               "Title": "RemoveBasketItemCommandResponse.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Commands\\Basket\\RemoveBasketItem\\RemoveBasketItemCommandResponse.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Commands\\Basket\\RemoveBasketItem\\RemoveBasketItemCommandResponse.cs",
@@ -1200,12 +1137,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Commands\\Basket\\RemoveBasketItem\\RemoveBasketItemCommandResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:03:44.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:03:44.753Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 67,
               "Title": "AddItemToBasketCommandRequest.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Commands\\Basket\\AddItemToBasket\\AddItemToBasketCommandRequest.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Commands\\Basket\\AddItemToBasket\\AddItemToBasketCommandRequest.cs",
@@ -1213,12 +1149,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Commands\\Basket\\AddItemToBasket\\AddItemToBasketCommandRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:02:01.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:02:01.931Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 66,
               "Title": "AddItemToBasketCommandResponse.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Commands\\Basket\\AddItemToBasket\\AddItemToBasketCommandResponse.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Commands\\Basket\\AddItemToBasket\\AddItemToBasketCommandResponse.cs",
@@ -1226,12 +1161,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Commands\\Basket\\AddItemToBasket\\AddItemToBasketCommandResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:02:12.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:02:12.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 68,
               "Title": "AddItemToBasketCommandHandler.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\Features\\Commands\\Basket\\AddItemToBasket\\AddItemToBasketCommandHandler.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\Features\\Commands\\Basket\\AddItemToBasket\\AddItemToBasketCommandHandler.cs",
@@ -1239,12 +1173,11 @@
               "RelativeToolTip": "CleanArch.Application\\Features\\Commands\\Basket\\AddItemToBasket\\AddItemToBasketCommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:01:51.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:01:51.747Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 71,
               "Title": "CreateUserResponse.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\DTOs\\User\\CreateUserResponse.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\DTOs\\User\\CreateUserResponse.cs",
@@ -1252,12 +1185,11 @@
               "RelativeToolTip": "CleanArch.Application\\DTOs\\User\\CreateUserResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T09:59:15.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T09:59:15.839Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 70,
               "Title": "ListUser.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\DTOs\\User\\ListUser.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\DTOs\\User\\ListUser.cs",
@@ -1265,12 +1197,11 @@
               "RelativeToolTip": "CleanArch.Application\\DTOs\\User\\ListUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T09:59:27.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T09:59:27.837Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 69,
               "Title": "Token.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\DTOs\\Token.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\DTOs\\Token.cs",
@@ -1278,12 +1209,11 @@
               "RelativeToolTip": "CleanArch.Application\\DTOs\\Token.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T09:59:46.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T09:59:46.225Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 72,
               "Title": "CreateUser.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\DTOs\\User\\CreateUser.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\DTOs\\User\\CreateUser.cs",
@@ -1291,12 +1221,11 @@
               "RelativeToolTip": "CleanArch.Application\\DTOs\\User\\CreateUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T09:58:58.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T09:58:58.925Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 73,
               "Title": "SingleOrder.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\DTOs\\Order\\SingleOrder.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\DTOs\\Order\\SingleOrder.cs",
@@ -1304,12 +1233,11 @@
               "RelativeToolTip": "CleanArch.Application\\DTOs\\Order\\SingleOrder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T09:58:23.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T09:58:23.144Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 74,
               "Title": "ListOrder.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\DTOs\\Order\\ListOrder.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\DTOs\\Order\\ListOrder.cs",
@@ -1317,12 +1245,11 @@
               "RelativeToolTip": "CleanArch.Application\\DTOs\\Order\\ListOrder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T09:56:16.274Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T09:56:16.274Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 75,
               "Title": "CreateOrder.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\DTOs\\Order\\CreateOrder.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\DTOs\\Order\\CreateOrder.cs",
@@ -1330,12 +1257,11 @@
               "RelativeToolTip": "CleanArch.Application\\DTOs\\Order\\CreateOrder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T09:56:07.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T09:56:07.824Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 76,
               "Title": "CompletedOrder.cs",
               "DocumentMoniker": "D:\\Github\\DemoCleanArch\\CleanArch.Application\\DTOs\\Order\\CompletedOrder.cs",
               "RelativeDocumentMoniker": "CleanArch.Application\\DTOs\\Order\\CompletedOrder.cs",
@@ -1343,8 +1269,7 @@
               "RelativeToolTip": "CleanArch.Application\\DTOs\\Order\\CompletedOrder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T09:55:55.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T09:55:55.92Z"
             }
           ]
         }
