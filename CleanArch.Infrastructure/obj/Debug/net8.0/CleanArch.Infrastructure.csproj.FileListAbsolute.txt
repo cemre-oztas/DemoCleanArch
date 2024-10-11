@@ -1,0 +1,14 @@
+D:\Github\DemoCleanArch\CleanArch.Infrastructure\bin\Debug\net8.0\CleanArch.Infrastructure.deps.json
+D:\Github\DemoCleanArch\CleanArch.Infrastructure\bin\Debug\net8.0\CleanArch.Infrastructure.runtimeconfig.json
+D:\Github\DemoCleanArch\CleanArch.Infrastructure\bin\Debug\net8.0\CleanArch.Infrastructure.dll
+D:\Github\DemoCleanArch\CleanArch.Infrastructure\bin\Debug\net8.0\CleanArch.Infrastructure.pdb
+D:\Github\DemoCleanArch\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.csproj.AssemblyReference.cache
+D:\Github\DemoCleanArch\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\DemoCleanArch\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.AssemblyInfoInputs.cache
+D:\Github\DemoCleanArch\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.AssemblyInfo.cs
+D:\Github\DemoCleanArch\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Github\DemoCleanArch\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.dll
+D:\Github\DemoCleanArch\CleanArch.Infrastructure\obj\Debug\net8.0\refint\CleanArch.Infrastructure.dll
+D:\Github\DemoCleanArch\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.pdb
+D:\Github\DemoCleanArch\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.genruntimeconfig.cache
+D:\Github\DemoCleanArch\CleanArch.Infrastructure\obj\Debug\net8.0\ref\CleanArch.Infrastructure.dll

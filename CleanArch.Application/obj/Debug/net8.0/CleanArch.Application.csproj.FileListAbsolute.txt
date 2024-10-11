@@ -1,0 +1,5 @@
+D:\Github\DemoCleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.csproj.AssemblyReference.cache
+D:\Github\DemoCleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\DemoCleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.AssemblyInfoInputs.cache
+D:\Github\DemoCleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.AssemblyInfo.cs
+D:\Github\DemoCleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.csproj.CoreCompileInputs.cache
