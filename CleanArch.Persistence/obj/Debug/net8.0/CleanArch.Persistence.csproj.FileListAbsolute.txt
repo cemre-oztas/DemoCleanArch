@@ -3,3 +3,4 @@ D:\Github\DemoCleanArch\CleanArch.Persistence\obj\Debug\net8.0\CleanArch.Persist
 D:\Github\DemoCleanArch\CleanArch.Persistence\obj\Debug\net8.0\CleanArch.Persistence.AssemblyInfoInputs.cache
 D:\Github\DemoCleanArch\CleanArch.Persistence\obj\Debug\net8.0\CleanArch.Persistence.AssemblyInfo.cs
 D:\Github\DemoCleanArch\CleanArch.Persistence\obj\Debug\net8.0\CleanArch.Persistence.csproj.CoreCompileInputs.cache
+D:\Github\DemoCleanArch\CleanArch.Persistence\obj\Debug\net8.0\CleanArch.Persistence.sourcelink.json

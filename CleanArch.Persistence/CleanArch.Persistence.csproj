@@ -7,17 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Repositories\BasketItem\BasketItemReadRepository.cs" />
+    <Compile Remove="Repositories\BasketItemEntityRepo\BasketItemReadRepository.cs" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Repositories\CompletedOrder\" />
-    <Folder Include="Repositories\Menu\" />
-    <Folder Include="Repositories\Product\" />
-    <Folder Include="Repositories\Order\" />
-  </ItemGroup>
-
-  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.10" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.10" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.10" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.10">
@@ -29,7 +23,6 @@
   <ItemGroup>
     <ProjectReference Include="..\CleanArch.Application\CleanArch.Application.csproj" />
     <ProjectReference Include="..\CleanArch.Domain\CleanArch.Domain.csproj" />
-    <ProjectReference Include="..\CleanArch.Infrastructure\CleanArch.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

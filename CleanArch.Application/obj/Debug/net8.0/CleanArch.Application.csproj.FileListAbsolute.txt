@@ -3,3 +3,4 @@ D:\Github\DemoCleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Applica
 D:\Github\DemoCleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.AssemblyInfoInputs.cache
 D:\Github\DemoCleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.AssemblyInfo.cs
 D:\Github\DemoCleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.csproj.CoreCompileInputs.cache
+D:\Github\DemoCleanArch\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.sourcelink.json

@@ -3,3 +3,13 @@ D:\Github\DemoCleanArch\CleanArch.Domain\obj\Debug\net8.0\CleanArch.Domain.Gener
 D:\Github\DemoCleanArch\CleanArch.Domain\obj\Debug\net8.0\CleanArch.Domain.AssemblyInfoInputs.cache
 D:\Github\DemoCleanArch\CleanArch.Domain\obj\Debug\net8.0\CleanArch.Domain.AssemblyInfo.cs
 D:\Github\DemoCleanArch\CleanArch.Domain\obj\Debug\net8.0\CleanArch.Domain.csproj.CoreCompileInputs.cache
+D:\Github\DemoCleanArch\CleanArch.Domain\obj\Debug\net8.0\CleanArch.Domain.sourcelink.json
+D:\Github\DemoCleanArch\CleanArch.Domain\bin\Debug\net8.0\CleanArch.Domain.deps.json
+D:\Github\DemoCleanArch\CleanArch.Domain\bin\Debug\net8.0\CleanArch.Domain.runtimeconfig.json
+D:\Github\DemoCleanArch\CleanArch.Domain\bin\Debug\net8.0\CleanArch.Domain.dll
+D:\Github\DemoCleanArch\CleanArch.Domain\bin\Debug\net8.0\CleanArch.Domain.pdb
+D:\Github\DemoCleanArch\CleanArch.Domain\obj\Debug\net8.0\CleanArch.Domain.dll
+D:\Github\DemoCleanArch\CleanArch.Domain\obj\Debug\net8.0\refint\CleanArch.Domain.dll
+D:\Github\DemoCleanArch\CleanArch.Domain\obj\Debug\net8.0\CleanArch.Domain.pdb
+D:\Github\DemoCleanArch\CleanArch.Domain\obj\Debug\net8.0\CleanArch.Domain.genruntimeconfig.cache
+D:\Github\DemoCleanArch\CleanArch.Domain\obj\Debug\net8.0\ref\CleanArch.Domain.dll
