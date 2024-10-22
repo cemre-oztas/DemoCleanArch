@@ -4,4 +4,5 @@ namespace CleanArch.Application.Repositories.Product;
 
 public interface IProductEntityReadRepository : IReadRepository<ProductEntity>
 {
+
 }

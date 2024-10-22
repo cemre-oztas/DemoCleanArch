@@ -1,4 +1,4 @@
-﻿namespace CleanArch.Application.Features.Queries.Order.GetOrderById;
+﻿namespace CleanArch.Application.Features.Queries.OrderEntityQueries.GetOrderById;
 
 public class GetOrderByIdQueryResponse
 {

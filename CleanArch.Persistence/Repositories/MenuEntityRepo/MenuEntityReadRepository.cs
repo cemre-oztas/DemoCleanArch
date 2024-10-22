@@ -1,4 +1,4 @@
-﻿using CleanArch.Application.Repositories.Menu;
+﻿using CleanArch.Application.Repositories.MenuEntityRepository;
 using CleanArch.Persistence.Contexts;
 
 namespace CleanArch.Persistence.Repositories.Menu;

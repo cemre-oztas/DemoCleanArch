@@ -1,16 +1,16 @@
 ﻿using CleanArch.Application.Repositories.Product;
+using MediatR;
 
-namespace CleanArch.Application.Features.Commands.Product.CreateProduct;
+namespace CleanArch.Application.Features.Commands.ProductEntity.CreateProductEntity;
 
 public class CreateProductEntityCommandHandler : IRequestHandler<CreateProductEntityCommandRequest, CreateProductEntityCommandResponse>
 {
     readonly IProductEntityWriteRepository _productWriteRepository;
-    readonly IProductHubService _productHubService;
 
-    public CreateProductEntityCommandHandler(IProductEntityWriteRepository productWriteRepository, IProductHubService productHubService)
+
+    public CreateProductEntityCommandHandler(IProductEntityWriteRepository productWriteRepository)
     {
         _productWriteRepository = productWriteRepository;
-        _productHubService = productHubService;
     }
 
     public async Task<CreateProductEntityCommandResponse> Handle(CreateProductEntityCommandRequest request, CancellationToken cancellationToken)
@@ -22,7 +22,8 @@ public class CreateProductEntityCommandHandler : IRequestHandler<CreateProductEn
             Stock = request.Stock
         });
         await _productWriteRepository.SaveAsync();
-        await _productHubService.ProductAddedMessageAsync($"{request.Name} isminde ürün eklenmiştir.");
+        Console.WriteLine($"{request.Name} isminde ürün eklenmiştir.");
+
         return new();
     }
 }

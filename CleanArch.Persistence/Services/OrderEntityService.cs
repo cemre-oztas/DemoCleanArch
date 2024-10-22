@@ -1,7 +1,7 @@
 ﻿using CleanArch.Application.Abstractions.Services;
 using CleanArch.Application.DTOs.Order;
-using CleanArch.Application.Repositories.CompletedOrder;
-using CleanArch.Application.Repositories.Order;
+using CleanArch.Application.Repositories.CompletedOrderEntityRepository;
+using CleanArch.Application.Repositories.OrderEntityRepository;
 using CleanArch.Domain.Entities;
 using DemoCleanArch.DTOs.Order;
 using Microsoft.EntityFrameworkCore;

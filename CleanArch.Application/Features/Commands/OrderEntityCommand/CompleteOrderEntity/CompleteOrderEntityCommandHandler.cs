@@ -1,13 +1,15 @@
-﻿using DemoCleanArch.DTOs.Order;
+﻿using CleanArch.Application.Abstractions.Services;
+using CleanArch.Domain.Entities;
+using MediatR;
 
-namespace CleanArch.Application.Features.Commands.Order.CompleteOrder;
+namespace CleanArch.Application.Features.Commands.OrderEntityCommand.CompleteOrderEntity;
 
 public class CompleteOrderEntityCommandHandler : IRequestHandler<CompleteOrderEntityCommandRequest, CompleteOrderEntityCommandResponse>
 {
-    readonly IOrderService _orderService;
+    readonly IOrderEntityService _orderService;
     readonly IMailService _mailService;
 
-    public CompleteOrderEntityCommandHandler(IOrderService orderService, IMailService mailService)
+    public CompleteOrderEntityCommandHandler(IOrderEntityService orderService, IMailService mailService)
     {
         _orderService = orderService;
         _mailService = mailService;
@@ -15,7 +17,7 @@ public class CompleteOrderEntityCommandHandler : IRequestHandler<CompleteOrderEn
 
     public async Task<CompleteOrderEntityCommandResponse> Handle(CompleteOrderEntityCommandRequest request, CancellationToken cancellationToken)
     {
-        (bool succeeded, CompletedOrderDTO dto) = await _orderService.CompleteOrderAsync(request.Id);
+        (bool succeeded, CompletedOrderEntity dto) = await _orderService.CompleteOrderAsync(request.Id);
         if (succeeded)
             await _mailService.SendCompletedOrderMailAsync(dto.EMail, dto.OrderCode, dto.OrderDate, dto.Username);
         return new();

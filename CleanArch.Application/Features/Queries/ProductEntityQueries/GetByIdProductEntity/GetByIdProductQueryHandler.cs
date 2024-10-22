@@ -1,13 +1,15 @@
-﻿using P = CleanArch.Domain.Entities;
+﻿using CleanArch.Application.Repositories.Product;
+using MediatR;
+using P = CleanArch.Domain.Entities;
 
 
-namespace CleanArch.Application.Features.Queries.Product.GetByIdProduct;
+namespace CleanArch.Application.Features.Queries.ProductEntityQueries.GetByIdProductEntity;
 
 internal class GetByIdProductQueryHandler : IRequestHandler<GetByIdProductQueryRequest, GetByIdProductQueryResponse>
 {
 
-    readonly IProductReadRepository _productReadRepository;
-    public GetByIdProductQueryHandler(IProductReadRepository productReadRepository)
+    readonly IProductEntityReadRepository _productReadRepository;
+    public GetByIdProductQueryHandler(IProductEntityReadRepository productReadRepository)
     {
         _productReadRepository = productReadRepository;
     }

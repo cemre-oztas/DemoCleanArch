@@ -1,10 +1,7 @@
-﻿namespace CleanArch.Application.Repositories.BasketItem;
+﻿namespace CleanArch.Application.Repositories.BasketItemEntityRepository;
+
 
 public interface IBasketItemEntityWriteRepository : IWriteRepository<IBasketItemEntityWriteRepository>
 {
 
-}
-
-public interface IWriteRepository<T>
-{
 }

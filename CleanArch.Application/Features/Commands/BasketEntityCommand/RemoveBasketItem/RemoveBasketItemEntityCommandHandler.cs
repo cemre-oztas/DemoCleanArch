@@ -1,22 +1,20 @@
 ﻿using CleanArch.Application.Abstractions.Services;
 using MediatR;
 
+namespace CleanArch.Application.Features.Commands.BasketEntityCommand.RemoveBasketItem;
 
-namespace CleanArch.Application.Features.Commands.Basket.RemoveBasketItem;
-
-public class RemoveBasketItemEntityCommandHandler : IRequestHandler< RemoveBasketItemEntityCommandRequest, RemoveBasketItemEntityCommandResponse>
+public class RemoveBasketItemCommandHandler : IRequestHandler<RemoveBasketItemEntityCommandRequest, RemoveBasketItemEntityCommandResponse>
 {
     readonly IBasketEntityService _basketService;
 
-    public RemoveBasketItemEntityCommandHandler(IBasketEntityService basketService)
+    public RemoveBasketItemCommandHandler(IBasketEntityService basketService)
     {
         _basketService = basketService;
     }
 
-    public async Task<RemoveBasketItemEntityCommandResponse> Handle(RemoveBasketItemEntityCommandResponse request, CancellationToken cancellationToken)
+    public async Task<RemoveBasketItemEntityCommandResponse> Handle(RemoveBasketItemEntityCommandRequest request, CancellationToken cancellationToken)
     {
-        await _basketService.RemoveBasketItemAsync(request.BasketItemEntityId);
-        return new RemoveBasketItemEntityCommandResponse();
+        await _basketService.RemoveBasketItemAsync(request.BasketItemId);
+        return new();
     }
-
 }

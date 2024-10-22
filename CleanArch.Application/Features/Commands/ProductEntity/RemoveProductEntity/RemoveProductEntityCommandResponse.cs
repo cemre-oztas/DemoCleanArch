@@ -1,4 +1,4 @@
-﻿namespace CleanArch.Application.Features.Commands.Product.RemoveProduct;
+﻿namespace CleanArch.Application.Features.Commands.ProductEntity.RemoveProductEntity;
 
 public class RemoveProductEntityCommandResponse
 {

@@ -1,4 +1,4 @@
-﻿namespace CleanArch.Application.Features.Commands.Product.UpdateProduct;
+﻿namespace CleanArch.Application.Features.Commands.ProductEntity.UpdateProductEntity;
 
 public class UpdateProductEntityCommandResponse
 {

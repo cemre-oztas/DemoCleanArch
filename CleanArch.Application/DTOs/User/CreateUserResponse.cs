@@ -1,4 +1,4 @@
-﻿namespace DemoCleanArch.DTOs.User;
+﻿namespace CleanArch.Application.DTOs.User;
 
 
 //Oluşturma işleminin sonucunu temsil eder.

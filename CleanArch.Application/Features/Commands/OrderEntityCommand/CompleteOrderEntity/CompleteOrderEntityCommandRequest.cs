@@ -1,4 +1,6 @@
-﻿namespace CleanArch.Application.Features.Commands.Order.CompleteOrder;
+﻿using MediatR;
+
+namespace CleanArch.Application.Features.Commands.OrderEntityCommand.CompleteOrderEntity;
 
 public class CompleteOrderEntityCommandRequest : IRequest<CompleteOrderEntityCommandResponse>
 {

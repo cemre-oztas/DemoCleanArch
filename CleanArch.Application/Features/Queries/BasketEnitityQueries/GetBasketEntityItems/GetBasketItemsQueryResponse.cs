@@ -1,4 +1,4 @@
-﻿namespace CleanArch.Application.Features.Queries.Basket.GetBasketItems;
+﻿namespace CleanArch.Application.Features.Queries.BasketEnitityQueries.GetBasketEntityItems;
 
 public class GetBasketItemsQueryResponse
 {

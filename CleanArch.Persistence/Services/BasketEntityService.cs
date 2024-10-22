@@ -1,7 +1,7 @@
 ﻿using CleanArch.Application.Abstractions.Services;
-using CleanArch.Application.Repositories.BasketItem;
-using CleanArch.Application.Repositories.BasketRepository;
-using CleanArch.Application.Repositories.Order;
+using CleanArch.Application.Repositories.BasketEntityRepository;
+using CleanArch.Application.Repositories.BasketItemEntityRepository;
+using CleanArch.Application.Repositories.OrderEntityRepository;
 using CleanArch.Domain.Entities;
 using CleanArch.Domain.Entities.Identity;
 using Microsoft.AspNetCore.Identity;

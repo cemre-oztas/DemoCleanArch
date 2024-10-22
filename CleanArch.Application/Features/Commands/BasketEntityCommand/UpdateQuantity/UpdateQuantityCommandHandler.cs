@@ -1,10 +1,13 @@
-﻿namespace CleanArch.Application.Features.Commands.Basket.UpdateQuantity;
+﻿using CleanArch.Application.Abstractions.Services;
+using MediatR;
+
+namespace CleanArch.Application.Features.Commands.BasketEntityCommand.UpdateQuantity;
 
 public class UpdateQuantityCommandHandler : IRequestHandler<UpdateQuantityCommandRequest, UpdateQuantityCommandResponse>
 {
-    readonly IBasketService _basketService;
+    readonly IBasketEntityService _basketService;
 
-    public UpdateQuantityCommandHandler(IBasketService basketService)
+    public UpdateQuantityCommandHandler(IBasketEntityService basketService)
     {
         _basketService = basketService;
     }

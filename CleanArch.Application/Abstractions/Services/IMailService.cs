@@ -27,4 +27,5 @@ public interface IMailService
         string orderCode,
         DateTime orderDate,
         string userName);
+    Task SendCompletedOrderMailAsync(object eMail, object orderCode, object orderDate, object username);
 }

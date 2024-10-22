@@ -1,6 +1,7 @@
-﻿namespace CleanArch.Application.Features.Commands.Basket.AddItemToBasket;
+﻿namespace CleanArch.Application.Features.Commands.BasketEntityCommand.AddItemToBasketEntity;
 
 public class AddItemToBasketEntityCommandResponse
 {
+
 
 }

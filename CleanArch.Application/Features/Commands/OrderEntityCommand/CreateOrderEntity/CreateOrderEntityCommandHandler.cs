@@ -1,16 +1,17 @@
-﻿namespace CleanArch.Application.Features.Commands.Order.CreateOrder;
+﻿using CleanArch.Application.Abstractions.Services;
+using MediatR;
+
+namespace CleanArch.Application.Features.Commands.OrderEntityCommand.CreateOrderEntity;
 
 public class CreateOrderEntityCommandHandler : IRequestHandler<CreateOrderEntityCommandRequest, CreateOrderEntityCommandResponse>
 {
-    readonly IOrderService _orderService;
-    readonly IBasketService _basketService;
-    readonly IOrderHubService _orderHubService;
+    readonly IOrderEntityService _orderService;
+    readonly IBasketEntityService _basketService;
 
-    public CreateOrderEntityCommandHandler(IOrderService orderService, IBasketService basketService, IOrderHubService orderHubService)
+    public CreateOrderEntityCommandHandler(IOrderEntityService orderService, IBasketEntityService basketService)
     {
         _orderService = orderService;
         _basketService = basketService;
-        _orderHubService = orderHubService;
     }
 
     public async Task<CreateOrderEntityCommandResponse> Handle(CreateOrderEntityCommandRequest request, CancellationToken cancellationToken)
@@ -20,9 +21,9 @@ public class CreateOrderEntityCommandHandler : IRequestHandler<CreateOrderEntity
             Address = request.Address,
             Description = request.Description,
             BasketId = _basketService.GetUserActiveBasket?.Id.ToString()
-        });
+        }
+        );
 
-        await _orderHubService.OrderAddedMessageAsync("Heyy, yeni bir sipariş geldi! :) ");
 
         return new();
     }

@@ -1,4 +1,6 @@
-﻿namespace CleanArch.Application.Features.Commands.Product.UpdateProduct;
+﻿using MediatR;
+
+namespace CleanArch.Application.Features.Commands.ProductEntity.UpdateProductEntity;
 
 public class UpdateProductEntityCommandRequest : IRequest<UpdateProductEntityCommandResponse>
 {

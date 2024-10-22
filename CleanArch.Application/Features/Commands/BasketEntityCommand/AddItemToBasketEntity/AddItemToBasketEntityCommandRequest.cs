@@ -1,5 +1,9 @@
-﻿namespace CleanArch.Application.Features.Commands.Basket.AddItemToBasket;
+﻿using MediatR;
 
-public class AddItemToBasketEntityCommandRequest
+namespace CleanArch.Application.Features.Commands.BasketEntityCommand.AddItemToBasketEntity;
+
+public class AddItemToBasketCommandRequest : IRequest<AddItemToBasketEntityCommandResponse>
 {
+    public string ProductId { get; set; }
+    public int Quantity { get; set; }
 }

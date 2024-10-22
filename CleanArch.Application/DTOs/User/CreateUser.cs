@@ -1,4 +1,4 @@
-﻿namespace DemoCleanArch.DTOs.User;
+﻿namespace CleanArch.Application.DTOs.User;
 
 
 //Yeni bir kullanıcı oluşturmak için gerekli alan

@@ -1,4 +1,6 @@
-﻿namespace CleanArch.Application.Features.Commands.Order.CreateOrder;
+﻿using MediatR;
+
+namespace CleanArch.Application.Features.Commands.OrderEntityCommand.CreateOrderEntity;
 
 public class CreateOrderEntityCommandRequest : IRequest<CreateOrderEntityCommandResponse>
 {

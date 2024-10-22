@@ -1,4 +1,6 @@
-﻿namespace CleanArch.Application.Features.Queries.Order.GetAllOrders;
+﻿using MediatR;
+
+namespace CleanArch.Application.Features.Queries.OrderEntityQueries.GetAllOrders;
 
 public class GetAllOrdersQueryRequest : IRequest<GetAllOrdersQueryResponse>
 {

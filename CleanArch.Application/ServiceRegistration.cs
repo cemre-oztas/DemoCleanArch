@@ -1,4 +1,6 @@
-﻿namespace CleanArch.Application;
+﻿using Microsoft.Extensions.DependencyInjection;
+
+namespace CleanArch.Application;
 
 public static class ServiceRegistration
 {

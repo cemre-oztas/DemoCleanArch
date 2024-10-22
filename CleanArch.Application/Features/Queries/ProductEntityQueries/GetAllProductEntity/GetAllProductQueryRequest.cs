@@ -1,4 +1,6 @@
-﻿namespace CleanArch.Application.Features.Queries.Product.GetAllProduct;
+﻿using MediatR;
+
+namespace CleanArch.Application.Features.Queries.ProductEntityQueries.GetAllProductEntity;
 
 public class GetAllProductQueryRequest : IRequest<GetAllProductQueryResponse>
 {

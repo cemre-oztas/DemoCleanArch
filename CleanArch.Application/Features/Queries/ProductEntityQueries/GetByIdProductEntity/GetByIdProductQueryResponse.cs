@@ -1,4 +1,4 @@
-﻿namespace CleanArch.Application.Features.Queries.Product.GetByIdProduct;
+﻿namespace CleanArch.Application.Features.Queries.ProductEntityQueries.GetByIdProductEntity;
 
 public class GetByIdProductQueryResponse
 {

@@ -1,10 +1,13 @@
-﻿namespace CleanArch.Application.Features.Queries.Order.GetAllOrders;
+﻿using CleanArch.Application.Abstractions.Services;
+using MediatR;
+
+namespace CleanArch.Application.Features.Queries.OrderEntityQueries.GetAllOrders;
 
 public class GetAllOrdersQueryHandler : IRequestHandler<GetAllOrdersQueryRequest, GetAllOrdersQueryResponse>
 {
-    readonly IOrderService _orderService;
+    readonly IOrderEntityService _orderService;
 
-    public GetAllOrdersQueryHandler(IOrderService orderService)
+    public GetAllOrdersQueryHandler(IOrderEntityService orderService)
     {
         _orderService = orderService;
     }

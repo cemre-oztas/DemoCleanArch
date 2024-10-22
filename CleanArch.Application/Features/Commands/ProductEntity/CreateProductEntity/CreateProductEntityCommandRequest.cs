@@ -1,4 +1,6 @@
-﻿namespace CleanArch.Application.Features.Commands.Product.CreateProduct;
+﻿using MediatR;
+
+namespace CleanArch.Application.Features.Commands.ProductEntity.CreateProductEntity;
 
 public class CreateProductEntityCommandRequest : IRequest<CreateProductEntityCommandResponse>
 {

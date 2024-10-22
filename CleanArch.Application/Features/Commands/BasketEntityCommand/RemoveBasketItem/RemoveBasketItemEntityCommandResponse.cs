@@ -1,7 +1,7 @@
-﻿namespace CleanArch.Application.Features.Commands.Basket.RemoveBasketItem
+﻿namespace CleanArch.Application.Features.Commands.BasketEntityCommand.RemoveBasketItem;
+
+
+public class RemoveBasketItemEntityCommandResponse
 {
-    public class RemoveBasketItemEntityCommandResponse
-    {
-        public string BasketItemEntityId;
-    }
+
 }

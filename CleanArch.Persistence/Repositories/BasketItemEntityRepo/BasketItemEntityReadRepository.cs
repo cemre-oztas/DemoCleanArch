@@ -1,4 +1,4 @@
-﻿using CleanArch.Application.Repositories.BasketItem;
+﻿using CleanArch.Application.Repositories.BasketItemEntityRepository;
 using CleanArch.Domain.Entities;
 using CleanArch.Persistence.Contexts;
 

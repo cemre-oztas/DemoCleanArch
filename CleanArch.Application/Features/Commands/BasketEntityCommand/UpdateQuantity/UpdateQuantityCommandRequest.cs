@@ -1,4 +1,6 @@
-﻿namespace CleanArch.Application.Features.Commands.Basket.UpdateQuantity;
+﻿using MediatR;
+
+namespace CleanArch.Application.Features.Commands.BasketEntityCommand.UpdateQuantity;
 
 public class UpdateQuantityCommandRequest : IRequest<UpdateQuantityCommandResponse>
 {

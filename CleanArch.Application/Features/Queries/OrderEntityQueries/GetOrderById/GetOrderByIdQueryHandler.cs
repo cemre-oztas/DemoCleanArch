@@ -1,10 +1,13 @@
-﻿namespace CleanArch.Application.Features.Queries.Order.GetOrderById;
+﻿using CleanArch.Application.Abstractions.Services;
+using MediatR;
+
+namespace CleanArch.Application.Features.Queries.OrderEntityQueries.GetOrderById;
 
 public class GetOrderByIdQueryHandler : IRequestHandler<GetOrderByIdQueryRequest, GetOrderByIdQueryResponse>
 {
-    readonly IOrderService _orderService;
+    readonly IOrderEntityService _orderService;
 
-    public GetOrderByIdQueryHandler(IOrderService orderService)
+    public GetOrderByIdQueryHandler(IOrderEntityService orderService)
     {
         _orderService = orderService;
     }

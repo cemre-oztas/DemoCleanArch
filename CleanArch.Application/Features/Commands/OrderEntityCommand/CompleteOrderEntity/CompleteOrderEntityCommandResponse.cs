@@ -1,4 +1,4 @@
-﻿namespace CleanArch.Application.Features.Commands.Order.CompleteOrder;
+﻿namespace CleanArch.Application.Features.Commands.OrderEntityCommand.CompleteOrderEntity;
 
 public class CompleteOrderEntityCommandResponse
 {

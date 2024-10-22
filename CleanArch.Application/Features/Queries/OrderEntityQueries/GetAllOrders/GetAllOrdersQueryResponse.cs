@@ -1,4 +1,4 @@
-﻿namespace CleanArch.Application.Features.Queries.Order.GetAllOrders;
+﻿namespace CleanArch.Application.Features.Queries.OrderEntityQueries.GetAllOrders;
 
 public class GetAllOrdersQueryResponse
 {

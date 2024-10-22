@@ -1,4 +1,6 @@
-﻿namespace CleanArch.Application.Features.Queries.Order.GetOrderById;
+﻿using MediatR;
+
+namespace CleanArch.Application.Features.Queries.OrderEntityQueries.GetOrderById;
 
 public class GetOrderByIdQueryRequest : IRequest<GetOrderByIdQueryResponse>
 {

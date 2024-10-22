@@ -1,7 +1,6 @@
-﻿
-using MediatR;
+﻿using MediatR;
 
-namespace CleanArch.Application.Features.Commands.Basket.RemoveBasketItem;
+namespace CleanArch.Application.Features.Commands.BasketEntityCommand.RemoveBasketItem;
 
 public class RemoveBasketItemEntityCommandRequest : IRequest<RemoveBasketItemEntityCommandResponse>
 {

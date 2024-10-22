@@ -1,4 +1,5 @@
 ﻿using CleanArch.Application.Abstractions.Services;
+using CleanArch.Application.DTOs.User;
 using CleanArch.Domain.Entities.Identity;
 using DemoCleanArch.DTOs.User;
 using Microsoft.AspNetCore.Identity;

@@ -1,4 +1,4 @@
-﻿namespace CleanArch.Application.Features.Commands.Basket.UpdateQuantity;
+﻿namespace CleanArch.Application.Features.Commands.BasketEntityCommand.UpdateQuantity;
 
 public class UpdateQuantityCommandResponse
 {

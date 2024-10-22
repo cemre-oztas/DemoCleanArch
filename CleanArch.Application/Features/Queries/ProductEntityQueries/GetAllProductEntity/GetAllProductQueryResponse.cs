@@ -1,4 +1,4 @@
-﻿namespace CleanArch.Application.Features.Queries.Product.GetAllProduct;
+﻿namespace CleanArch.Application.Features.Queries.ProductEntityQueries.GetAllProductEntity;
 
 public class GetAllProductQueryResponse
 {

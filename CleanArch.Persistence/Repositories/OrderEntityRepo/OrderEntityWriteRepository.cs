@@ -1,4 +1,4 @@
-﻿using CleanArch.Application.Repositories.Order;
+﻿using CleanArch.Application.Repositories.OrderEntityRepository;
 using CleanArch.Domain.Entities;
 using CleanArch.Persistence.Contexts;
 

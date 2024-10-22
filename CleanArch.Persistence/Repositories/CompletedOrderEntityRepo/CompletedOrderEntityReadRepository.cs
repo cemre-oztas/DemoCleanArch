@@ -1,4 +1,4 @@
-﻿using CleanArch.Application.Repositories.CompletedOrder;
+﻿using CleanArch.Application.Repositories.CompletedOrderEntityRepository;
 using CleanArch.Persistence.Contexts;
 
 namespace CleanArch.Persistence.Repositories.CompletedOrder;

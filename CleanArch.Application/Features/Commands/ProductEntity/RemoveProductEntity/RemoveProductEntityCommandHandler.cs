@@ -1,10 +1,13 @@
-﻿namespace CleanArch.Application.Features.Commands.Product.RemoveProduct;
+﻿using CleanArch.Application.Repositories.Product;
+using MediatR;
+
+namespace CleanArch.Application.Features.Commands.ProductEntity.RemoveProductEntity;
 
 public class RemoveProductEntityCommandHandler : IRequestHandler<RemoveProductEntityCommandRequest, RemoveProductEntityCommandResponse>
 {
-    readonly IProductWriteRepository _productWriteRepository;
+    readonly IProductEntityWriteRepository _productWriteRepository;
 
-    public RemoveProductEntityCommandHandler(IProductWriteRepository productWriteRepository)
+    public RemoveProductEntityCommandHandler(IProductEntityWriteRepository productWriteRepository)
     {
         _productWriteRepository = productWriteRepository;
     }

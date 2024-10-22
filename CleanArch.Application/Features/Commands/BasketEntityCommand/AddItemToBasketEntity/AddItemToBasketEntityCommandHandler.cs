@@ -1,10 +1,9 @@
 ﻿using CleanArch.Application.Abstractions.Services;
-using CleanArch.Application.Features.Commands.Basket.AddItemToBasket;
 using MediatR;
 
-namespace CleanArch.Application.Features.Commands.Basket.AddItemToBasketEntity;
+namespace CleanArch.Application.Features.Commands.BasketEntityCommand.AddItemToBasketEntity;
 
-public class AddItemToBasketEntityCommandHandler : IRequestHandler<AddItemToBasketEntityCommandRequest, AddItemToBasketEntityCommandResponse>
+public class AddItemToBasketEntityCommandHandler : IRequestHandler<AddItemToBasketCommandRequest, AddItemToBasketEntityCommandResponse>
 {
     readonly IBasketEntityService _basketService;
 
@@ -13,16 +12,16 @@ public class AddItemToBasketEntityCommandHandler : IRequestHandler<AddItemToBask
         _basketService = basketService;
     }
 
-    public async Task<AddItemToBasketEntityCommandResponse> Handle(AddItemToBasketEntityCommandRequest request, CancellationToken cancellationToken)
+    public async Task<AddItemToBasketEntityCommandResponse> Handle(AddItemToBasketCommandRequest request, CancellationToken cancellationToken)
     {
-        await _basketService.AddItemToBasketAsync(new()
-        {
-            BasketId = request.BasketId,
-
-        }
+        await _basketService.AddItemToBasketAsync
+            (new()
+            {
+                BasketId = request.ProductId,
+                Quantity = request.Quantity
+            }
         );
 
         return new();
     }
 }
-

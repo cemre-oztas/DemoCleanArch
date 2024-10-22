@@ -1,4 +1,4 @@
-﻿namespace CleanArch.Application.Features.Commands.Product.CreateProduct;
+﻿namespace CleanArch.Application.Features.Commands.ProductEntity.CreateProductEntity;
 
 public class CreateProductEntityCommandResponse
 {

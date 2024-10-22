@@ -1,16 +1,19 @@
-﻿namespace CleanArch.Application.Features.Commands.Product.UpdateProduct;
+﻿using CleanArch.Application.Repositories.Product;
+using MediatR;
+
+namespace CleanArch.Application.Features.Commands.ProductEntity.UpdateProductEntity;
 
 public class UpdateProductEntityCommandHandler : IRequestHandler<UpdateProductEntityCommandRequest, UpdateProductEntityCommandResponse>
 {
-    readonly IProductReadRepository _productReadRepository;
-    readonly IProductWriteRepository _productWriteRepository;
-    readonly ILogger<UpdateProductEntityCommandHandler> _logger;
+    readonly IProductEntityReadRepository _productReadRepository;
+    readonly IProductEntityWriteRepository _productWriteRepository;
 
-    public UpdateProductEntityCommandHandler(IProductReadRepository productReadRepository, IProductWriteRepository productWriteRepository, ILogger<UpdateProductEntityCommandHandler> logger)
+
+    public UpdateProductEntityCommandHandler(IProductEntityReadRepository productReadRepository, IProductEntityWriteRepository productWriteRepository)
     {
         _productReadRepository = productReadRepository;
         _productWriteRepository = productWriteRepository;
-        _logger = logger;
+
     }
 
     public async Task<UpdateProductEntityCommandResponse> Handle(UpdateProductEntityCommandRequest request, CancellationToken cancellationToken)
@@ -20,7 +23,6 @@ public class UpdateProductEntityCommandHandler : IRequestHandler<UpdateProductEn
         product.Name = request.Name;
         product.Price = request.Price;
         await _productWriteRepository.SaveAsync();
-        _logger.LogInformation("Product güncellendi...");
         return new();
     }
 }

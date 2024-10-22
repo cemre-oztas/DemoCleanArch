@@ -1,5 +1,5 @@
 ﻿using CleanArch.Application.DTOs.Order;
-using DemoCleanArch.DTOs.Order;
+using CleanArch.DTOs.Order;
 
 namespace CleanArch.Application.Abstractions.Services
 {

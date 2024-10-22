@@ -1,11 +1,14 @@
-﻿namespace CleanArch.Application.Features.Queries.Basket.GetBasketItems;
+﻿using CleanArch.Application.Abstractions.Services;
+using MediatR;
+
+namespace CleanArch.Application.Features.Queries.BasketEnitityQueries.GetBasketEntityItems;
 
 public class GetBasketItemsQueryHandler : IRequestHandler<GetBasketItemsQueryRequest, List<GetBasketItemsQueryResponse>>
 {
 
-    readonly IBasketService _basketService;
+    readonly IBasketEntityService _basketService;
 
-    public GetBasketItemsQueryHandler(IBasketService basketService)
+    public GetBasketItemsQueryHandler(IBasketEntityService basketService)
     {
         _basketService = basketService;
     }
