@@ -3,7 +3,7 @@ using CleanArch.Domain.Entities;
 using CleanArch.Persistence.Contexts;
 
 
-namespace CleanArch.Persistence.Repositories.Order;
+namespace CleanArch.Persistence.Repositories.OrderEntityRepo;
 
 public class OrderEntityWriteRepository : WriteRepository<OrderEntity>, IOrderEntityWriteRepository
 {

@@ -2,13 +2,13 @@
 using CleanArch.Domain.Entities;
 using CleanArch.Persistence.Contexts;
 
-namespace CleanArch.Persistence.Repositories.BasketItem;
+namespace CleanArch.Persistence.Repositories.BasketItemEntityRepo;
 
-public class BasketItemReadRepository : ReadRepository<BasketItemEntity>, IBasketItemEntityReadRepository
+public class BasketItemEntityReadRepository : ReadRepository<BasketItemEntity>, IBasketItemEntityReadRepository
 {
-    public BasketItemReadRepository(APIDbContext context) : base(context)
+    public BasketItemEntityReadRepository(APIDbContext context) : base(context)
     {
-    }
 
-    
+    }
 }
+

@@ -3,7 +3,7 @@ using CleanArch.Application.DTOs.Order;
 using CleanArch.Application.Repositories.CompletedOrderEntityRepository;
 using CleanArch.Application.Repositories.OrderEntityRepository;
 using CleanArch.Domain.Entities;
-using DemoCleanArch.DTOs.Order;
+using CleanArch.DTOs.Order;
 using Microsoft.EntityFrameworkCore;
 
 namespace CleanArch.Persistence.Services
@@ -136,7 +136,6 @@ namespace CleanArch.Persistence.Services
                 await _completedOrderWriteRepository.AddAsync(new() { OrderId = Guid.Parse(id) });
                 return (await _completedOrderWriteRepository.SaveAsync() > 0, new()
                 {
-                    OrderCode = order.OrderCode,
                     OrderDate = order.CreatedDate,
                     Username = order.Basket.User.UserName
                 });

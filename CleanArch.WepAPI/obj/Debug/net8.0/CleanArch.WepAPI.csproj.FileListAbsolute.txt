@@ -1,0 +1,7 @@
+D:\Github\DemoCleanArch\CleanArch.WepAPI\obj\Debug\net8.0\CleanArch.WepAPI.csproj.AssemblyReference.cache
+D:\Github\DemoCleanArch\CleanArch.WepAPI\obj\Debug\net8.0\CleanArch.WepAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\DemoCleanArch\CleanArch.WepAPI\obj\Debug\net8.0\CleanArch.WepAPI.AssemblyInfoInputs.cache
+D:\Github\DemoCleanArch\CleanArch.WepAPI\obj\Debug\net8.0\CleanArch.WepAPI.AssemblyInfo.cs
+D:\Github\DemoCleanArch\CleanArch.WepAPI\obj\Debug\net8.0\CleanArch.WepAPI.csproj.CoreCompileInputs.cache
+D:\Github\DemoCleanArch\CleanArch.WepAPI\obj\Debug\net8.0\CleanArch.WepAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Github\DemoCleanArch\CleanArch.WepAPI\obj\Debug\net8.0\CleanArch.WepAPI.sourcelink.json

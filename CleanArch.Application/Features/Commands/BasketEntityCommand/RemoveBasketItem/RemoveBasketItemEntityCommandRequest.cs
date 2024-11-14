@@ -4,5 +4,6 @@ namespace CleanArch.Application.Features.Commands.BasketEntityCommand.RemoveBask
 
 public class RemoveBasketItemEntityCommandRequest : IRequest<RemoveBasketItemEntityCommandResponse>
 {
-    public string BasketItemId { get; set; }
+    public string? BasketItemId { get; set; }
+    public string? BasketName { get; set; }
 }

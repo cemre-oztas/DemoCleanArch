@@ -2,11 +2,8 @@
 using CleanArch.Domain.Entities; // Basket, Product gibi varlıklar için
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore; // IdentityDbContext için
 using Microsoft.EntityFrameworkCore;
-using System.Threading;
-using System.Threading.Tasks;
 using CleanArch.Domain.Entities.Common;
 using Microsoft.EntityFrameworkCore.ChangeTracking;
-using System.Net;
 
 namespace CleanArch.Persistence.Contexts
 {
@@ -21,7 +18,6 @@ namespace CleanArch.Persistence.Contexts
         public DbSet<BasketItemEntity> BasketItems { get; set; }
         public DbSet<CompletedOrderEntity> CompletedOrders { get; set; }
         public DbSet<MenuEntity> Menus { get; set; }
-
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
@@ -56,8 +52,8 @@ namespace CleanArch.Persistence.Contexts
                 {
                     EntityState.Added => data.Entity.CreatedDate = DateTime.UtcNow,
                     EntityState.Modified => data.Entity.UpdatedDate = DateTime.UtcNow,
-                    _ => data.Entity.UpdatedDate // Eğer başka bir durumda güncelleme yapmıyorsanız, bu satırı kaldırabilirsiniz.
-                };
+                }
+                ;
             }
 
             return await base.SaveChangesAsync(cancellationToken);

@@ -15,11 +15,4 @@ public class CompleteOrderEntityCommandHandler : IRequestHandler<CompleteOrderEn
         _mailService = mailService;
     }
 
-    public async Task<CompleteOrderEntityCommandResponse> Handle(CompleteOrderEntityCommandRequest request, CancellationToken cancellationToken)
-    {
-        (bool succeeded, CompletedOrderEntity dto) = await _orderService.CompleteOrderAsync(request.Id);
-        if (succeeded)
-            await _mailService.SendCompletedOrderMailAsync(dto.EMail, dto.OrderCode, dto.OrderDate, dto.Username);
-        return new();
-    }
 }

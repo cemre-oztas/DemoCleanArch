@@ -2,4 +2,5 @@
 
 public interface IMenuEntityReadRepository : IReadRepository<Domain.Entities.MenuEntity>
 {
+
 }

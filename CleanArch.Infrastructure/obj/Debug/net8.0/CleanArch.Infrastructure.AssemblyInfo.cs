@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanArch.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e9f96787b3e64643ba1bda637d2098a8e9e5482")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5cec31a5490b6f744c3cf720b0701320154ee2c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanArch.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanArch.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -2,7 +2,7 @@
 using CleanArch.Domain.Entities;
 using CleanArch.Persistence.Contexts;
 
-namespace CleanArch.Persistence.Repositories.RepoBasket;
+namespace CleanArch.Persistence.Repositories.BasketEntityRepo;
 
 public class BasketEntityWriteRepository : WriteRepository<BasketEntity>, IBasketEntityWriteRepository
 {

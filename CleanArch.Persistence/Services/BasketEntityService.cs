@@ -72,7 +72,7 @@ namespace CleanArch.Persistence.Services
 
         public async Task AddItemToBasketAsync(Application.ViewModels.BasketEntities.VM_Create_BasketItemEntity basketItem)
         {
-            string username =;
+            string username = ;
             BasketEntity? basket = await ContextUser(username);
 
             if (basket != null)
@@ -91,7 +91,7 @@ namespace CleanArch.Persistence.Services
                         Quantity = basketItem.Quantity
                     };
                 }
-                await _basketItemWriteRepository.AddAsync(newBasketItemEntity);
+                await _basketItemWriteRepository.AddAsync(a);
             }
              await _basketItemWriteRepository.SaveAsync();
         }
@@ -132,7 +132,7 @@ namespace CleanArch.Persistence.Services
         {
             get
             {
-                BasketEntity? basket = ContextUser(a).Result;
+                BasketEntity? basket = ContextUser().Result;
                 return basket;
             }
         }

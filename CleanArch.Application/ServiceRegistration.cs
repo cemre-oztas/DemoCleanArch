@@ -1,4 +1,6 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
+using MediatR;
+using System.Reflection;
 
 namespace CleanArch.Application;
 
@@ -6,7 +8,7 @@ public static class ServiceRegistration
 {
     public static void AddApplicationServices(this IServiceCollection collection)
     {
-        collection.AddMediatR(typeof(ServiceRegistration));
-        collection.AddHttpClient();
+        var assembly = Assembly.GetExecutingAssembly();
+        collection.AddMediatR(assembly);
     }
 }

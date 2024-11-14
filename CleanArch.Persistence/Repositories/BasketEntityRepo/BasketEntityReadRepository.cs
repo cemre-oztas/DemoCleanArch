@@ -8,5 +8,6 @@ public class BasketEntityReadRepository : ReadRepository<BasketEntity>, IBasketE
 {
     public BasketEntityReadRepository(APIDbContext context) : base(context)
     {
+
     }
 }

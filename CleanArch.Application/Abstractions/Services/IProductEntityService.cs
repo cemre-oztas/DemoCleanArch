@@ -3,4 +3,5 @@
 public interface IProductEntityService
 {
     Task StockUpdateToProductAsync(string productId, int stock);
+
 }

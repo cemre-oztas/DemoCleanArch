@@ -4,6 +4,6 @@ namespace CleanArch.Domain.Entities;
 
 public class MenuEntity : BaseEntity
 {
-    public string Name { get; set; }
+    public string? Name { get; set; }
 
 }

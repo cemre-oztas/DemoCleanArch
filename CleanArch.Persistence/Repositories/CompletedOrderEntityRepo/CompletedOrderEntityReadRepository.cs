@@ -7,5 +7,6 @@ public class CompletedOrderEntityReadRepository : ReadRepository<Domain.Entities
 {
     public CompletedOrderEntityReadRepository(APIDbContext context) : base(context)
     {
+
     }
 }

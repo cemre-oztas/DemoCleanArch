@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CleanArch.Application.Abstractions.Services;
+﻿namespace CleanArch.Application.Abstractions.Services;
 
 public interface IMailService
 {
@@ -23,9 +17,9 @@ public interface IMailService
         string to,
         string userId,
         string resetToken);
-    Task SendCompletedOrderMailAsync(string to,
+    Task SendCompletedOrderMailAsync(
+        string to,
         string orderCode,
         DateTime orderDate,
         string userName);
-    Task SendCompletedOrderMailAsync(object eMail, object orderCode, object orderDate, object username);
 }

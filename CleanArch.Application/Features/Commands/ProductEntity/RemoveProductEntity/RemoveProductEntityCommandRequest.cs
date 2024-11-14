@@ -5,4 +5,5 @@ namespace CleanArch.Application.Features.Commands.ProductEntity.RemoveProductEnt
 public class RemoveProductEntityCommandRequest : IRequest<RemoveProductEntityCommandResponse>
 {
     public string Id { get; set; }
+
 }

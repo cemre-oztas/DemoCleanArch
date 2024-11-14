@@ -1,7 +1,10 @@
-﻿namespace CleanArch.Application.Repositories.BasketItemEntityRepository;
+﻿using CleanArch.Domain.Entities;
+
+namespace CleanArch.Application.Repositories.BasketItemEntityRepository;
 
 
-public interface IBasketItemEntityWriteRepository : IWriteRepository<IBasketItemEntityWriteRepository>
+public interface IBasketItemEntityWriteRepository : IWriteRepository<BasketItemEntity>
 {
+    bool Remove(BasketItemEntity basketItem);
 
 }

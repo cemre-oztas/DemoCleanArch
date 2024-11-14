@@ -1,8 +1,6 @@
 ﻿namespace CleanArch.DTOs.Order;
 
-
 //Tamamlanmış siparişlerin durumu
-
 
 public class CompletedOrderEntityDTO
 {

@@ -1,10 +1,9 @@
 ﻿using CleanArch.Application.Repositories.Product;
 using CleanArch.Domain.Entities;
 using CleanArch.Persistence.Contexts;
-using CleanArch.Persistence.Repositories;
 
 
-namespace CleanArch.Persistence.Repositories.Product;
+namespace CleanArch.Persistence.Repositories.ProductEntityRepo;
 
 public class ProductEntityWriteRepository : WriteRepository<ProductEntity>, IProductEntityWriteRepository
 {

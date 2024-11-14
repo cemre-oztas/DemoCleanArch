@@ -1,6 +1,6 @@
 ﻿using CleanArch.Application.Repositories.Product;
 using MediatR;
-using Microsoft.EntityFrameworkCore;
+
 
 namespace CleanArch.Application.Features.Queries.ProductEntityQueries.GetAllProductEntity;
 
